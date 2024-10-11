@@ -18,7 +18,7 @@ const Hero = () => {
      ">
       <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">The new Arrival </span>
       <br />
-      <span className="text-coral-red inline-block mt-2 ">Omar</span> Shoes
+      <span className="text-coral-red inline-block mt-2 ">Nike</span> Shoes
      </h1>
      <p className="font-montserrat text-slate-gray text-lg leading-8 mt-5 mb-16 ">Discover stylish nike arrivals, quality comfort , and innovation for your active life </p>
     <Button label='Shop Now' iconURL={arrowRight}/>
